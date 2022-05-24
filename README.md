@@ -1,12 +1,3 @@
-[![MIT License][license-shield]][license-url]
-
-
-
-
-<!-- PROJECT LOGO -->
-
-  ![Live Run Sheet Logo](Live_Run_Sheet_Logo)
-
 <h3 align="center">LIVE RUN SHEET</h3>
 
   <p align="center">
@@ -56,7 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](Live_Run_Sheet_Screenshot.jpg)
+![Product Name Screen Shot](Live Run Sheet Screenshot.jpg)
 
 
 
