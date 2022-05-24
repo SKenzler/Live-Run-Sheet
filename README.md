@@ -47,13 +47,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](Live Run Sheet Screenshot.jpg)
-
-
-
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
 
 ### Built With
 * [HTML5](https://html.com/html5)
