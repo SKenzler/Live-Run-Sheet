@@ -1,7 +1,3 @@
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
 
 
@@ -60,7 +56,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![Product Name Screen Shot](Live_Run_Sheet.jpg)
+![Product Name Screen Shot](Live_Run_Sheet_Screenshot.jpg)
 
 
 
@@ -120,20 +116,3 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 * [VS Code](https://code.visualstudio.com)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Stiltskinner/Pig-E-Bank.svg?style=for-the-badge
-[contributors-url]: https://github.com/SKenzler/Live-Run-Sheet/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Stiltskinner/Pig-E-Bank.svg?style=for-the-badge
-[forks-url]: https://github.com/SKenzler/Live-Run-Sheet/network/members
-[stars-shield]: https://img.shields.io/github/stars/Stiltskinner/Pig-E-Bank.svg?style=for-the-badge
-[stars-url]: https://github.com/SKenzler/Live-Run-Sheet/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Stiltskinner/Pig-E-Bank.svg?style=for-the-badge
-[issues-url]: https://github.com/SKenzler/Live-Run-Sheet/issues
-[license-shield]: https://img.shields.io/github/license/Stiltskinner/Pig-E-Bank.svg?style=for-the-badge
-[license-url]: https://github.com/SKenzler/Live-Run-Sheetk/blob/master/LICENSE.txt
-
-[product-screenshot]: images/screenshot.png
