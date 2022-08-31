@@ -9,7 +9,7 @@ This Dashboard is a live web application that enables a user to track daily metr
 ## Built With
 
 * REACT
-* 
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
