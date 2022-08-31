@@ -1,6 +1,6 @@
 # LIVE RUN SHEET
 
-![Live Run Sheet Screenshot] (images/Live Run Sheet Screenshot.jpg)
+![Live Run Sheet Screenshot] (Live Run Sheet Screenshot.jpg)
 
 ## About The Project
 
