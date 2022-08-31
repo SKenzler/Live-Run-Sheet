@@ -16,7 +16,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 
 ## Contact
-1. Shane Kenzler - shanekenzler@gmail.com
+1. Shane Kenzler <shanekenzler@gmail.com>
 
 ## Acknowledgments
 
